@@ -1,0 +1,17 @@
+.alert-box {
+  background-color: skyblue;
+  padding: 20px;
+  color: white;
+  border-radius: 5px;
+  display: none;
+} 
+
+.show{
+  display: block;
+}
+
+
+.list-group1{
+  display: none;
+  
+}

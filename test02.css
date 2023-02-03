@@ -1,0 +1,8 @@
+.slide-container{
+  width:300vw;
+  transform: translateX(-100vw);
+}
+
+.slide-box img {
+  width:100vw;
+}
